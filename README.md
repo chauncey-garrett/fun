@@ -23,10 +23,10 @@ footer: true
 * Table of Contents placeholder (via kramdown)
 {:toc}
 
-# Nyan cat
+## Nyan cat
 
     nc -v miku.acm.uiuc.edu 23
 
-# Star Wars IV: A New Hope
+## Star Wars IV: A New Hope
 
     telnet towel.blinkenlights.nl
